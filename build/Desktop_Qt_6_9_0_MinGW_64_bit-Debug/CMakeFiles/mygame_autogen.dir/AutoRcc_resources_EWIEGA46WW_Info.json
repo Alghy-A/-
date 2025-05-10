@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "E:/Documents/qtproject/mygame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/mygame_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Documents/qtproject/mygame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Documents/qtproject/mygame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Documents/qtproject/mygame",
+	"CMAKE_SOURCE_DIR" : "E:/Documents/qtproject/mygame",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/Documents/qtproject/mygame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/mygame_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Documents/qtproject/mygame/pictures/player/runright.png",
+		"E:/Documents/qtproject/mygame/pictures/player/runleft.png",
+		"E:/Documents/qtproject/mygame/pictures/player/walkleft.png",
+		"E:/Documents/qtproject/mygame/pictures/player/walkright.png",
+		"E:/Documents/qtproject/mygame/pictures/background/mainmenu.jpg",
+		"E:/Documents/qtproject/mygame/pictures/background/background.jpg"
+	],
+	"LOCK_FILE" : "E:/Documents/qtproject/mygame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/mygame_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/qt/6.9.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Documents/qtproject/mygame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/mygame_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Documents/qtproject/mygame/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
